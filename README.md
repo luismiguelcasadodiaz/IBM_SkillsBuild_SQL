@@ -278,4 +278,7 @@ Curos con 242 videos en [Udemy](https://ibmcsr.udemy.com/course/master-sql-serve
 #### 237. Definiendo templates para monitoreo
 #### 238. Herramientas del menú, Importación y exportación de Trazas
 ## Section 32: BONUS: 10 Buenas prácticas sobre diseño, programación y seguridad
-![image](https://github.com/luismiguelcasadodiaz/IBM_SkillsBuild_SQL/assets/19540140/08d80df7-4583-48bb-9bd1-50f51dab91c6)
+
+# Diagrama de relaciones del proyecto final
+
+![image](https://github.com/luismiguelcasadodiaz/IBM_SkillsBuild_SQL/assets/19540140/ab132536-74c4-4756-b3ad-18fe2f9c68e6)
