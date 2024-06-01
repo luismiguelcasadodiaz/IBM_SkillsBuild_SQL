@@ -281,4 +281,5 @@ Curos con 242 videos en [Udemy](https://ibmcsr.udemy.com/course/master-sql-serve
 
 # Diagrama de relaciones del proyecto final
 
-![image](https://github.com/luismiguelcasadodiaz/IBM_SkillsBuild_SQL/assets/19540140/ab132536-74c4-4756-b3ad-18fe2f9c68e6)
+![image](https://github.com/luismiguelcasadodiaz/IBM_SkillsBuild_SQL/assets/19540140/712fa503-f8af-4f7e-b8e5-284dcde0597b)
+
